@@ -2,7 +2,7 @@
 
 ## 练手项目(含文档说明)
 
-- [命令行写一个TODO List](https://liruifengv.com/posts/write-todo-by-rust/)
+- 命令行写一个TODO List [参考文档](https://liruifengv.com/posts/write-todo-by-rust/)
 
 ## 参考文档
 
